@@ -1,0 +1,20 @@
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\WEB AUTOMATION.dll
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\WEB AUTOMATION.pdb
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\WebDriver.dll
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\WebDriver.Support.dll
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\abdul\source\repos\WEB AUTOMATION\obj\Debug\WEB AUTOMATION.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\WEB AUTOMATION\obj\Debug\WEB AUTOMATION.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\WEB AUTOMATION\obj\Debug\WEB AUTOMATION.csproj.CopyComplete
+C:\Users\abdul\source\repos\WEB AUTOMATION\obj\Debug\WEB AUTOMATION.dll
+C:\Users\abdul\source\repos\WEB AUTOMATION\obj\Debug\WEB AUTOMATION.pdb
+C:\Users\abdul\source\repos\WEB AUTOMATION\bin\Debug\WEB AUTOMATION.dll.config

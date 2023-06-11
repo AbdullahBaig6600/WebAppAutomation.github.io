@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="c6c856fc-f2b0-4910-8233-7c7481ddfae6" name="abdul@DESKTOP-ONM4GLH 2023-06-11 17:48:27" runUser="DESKTOP-ONM4GLH\abdul" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2023-06-11T17:48:27.7248631+05:00" queuing="2023-06-11T17:48:27.7248631+05:00" start="2023-06-11T17:47:58.9717325+05:00" finish="2023-06-11T17:48:27.7838658+05:00" />
+  <TestSettings name="default" id="e9a7b4f8-601f-499e-b12b-45369e0b69ca">
+    <Deployment runDeploymentRoot="abdul_DESKTOP-ONM4GLH_2023-06-11_17_48_27" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="8a5aceec-8cf0-4b74-8f09-f546891a2a5a" testId="21af4f20-b80e-78ec-b745-77df2e73d6c6" testName="BookHotel_TC001" computerName="DESKTOP-ONM4GLH" duration="00:00:27.5409964" startTime="2023-06-11T17:47:59.7124067+05:00" endTime="2023-06-11T17:48:27.3388652+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8a5aceec-8cf0-4b74-8f09-f546891a2a5a" resultType="DataDrivenTest">
+      <InnerResults>
+        <UnitTestResult executionId="38cf06b4-c052-4fc3-9dea-887e6f89d219" parentExecutionId="8a5aceec-8cf0-4b74-8f09-f546891a2a5a" testId="21af4f20-b80e-78ec-b745-77df2e73d6c6" testName="BookHotel_TC001 (Data Row 0)" computerName="DESKTOP-ONM4GLH" duration="00:00:12.9531859" startTime="2023-06-11T17:47:59.7124067+05:00" endTime="2023-06-11T17:48:27.3388652+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="38cf06b4-c052-4fc3-9dea-887e6f89d219" dataRowInfo="1" resultType="DataDrivenDataRow" />
+        <UnitTestResult executionId="e0690958-17e7-4102-9614-71f2f5bdc37f" parentExecutionId="8a5aceec-8cf0-4b74-8f09-f546891a2a5a" testId="21af4f20-b80e-78ec-b745-77df2e73d6c6" testName="BookHotel_TC001 (Data Row 1)" computerName="DESKTOP-ONM4GLH" duration="00:00:14.3510118" startTime="2023-06-11T17:47:59.7124067+05:00" endTime="2023-06-11T17:48:27.3388652+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e0690958-17e7-4102-9614-71f2f5bdc37f" dataRowInfo="2" resultType="DataDrivenDataRow">
+          <Output>
+            <ErrorInfo>
+              <Message>Test method WEB_AUTOMATION.TestExecution.BookHotel_TC001 threw exception: &#xD;
+OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#location"}
+  (Session info: chrome=114.0.5735.110)</Message>
+              <StackTrace>    at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)&#xD;
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)&#xD;
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)&#xD;
+   at OpenQA.Selenium.By.&lt;.ctor&gt;b__11_0(ISearchContext context)&#xD;
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)&#xD;
+   at OpenQA.Selenium.WebDriver.FindElement(By by)&#xD;
+   at WEB_AUTOMATION.SearchPage.SearchHotel() in C:\Users\abdul\source\repos\WebAppAutomation\WebApp\SearchHotelPage\SearchPage.cs:line 27&#xD;
+   at WEB_AUTOMATION.TestExecution.BookHotel_TC001() in C:\Users\abdul\source\repos\WebAppAutomation\TestExecution.cs:line 94&#xD;
+</StackTrace>
+            </ErrorInfo>
+          </Output>
+        </UnitTestResult>
+      </InnerResults>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="BookHotel_TC001" storage="c:\users\abdul\source\repos\webappautomation\bin\debug\webappautomation.dll" id="21af4f20-b80e-78ec-b745-77df2e73d6c6">
+      <TestCategory>
+        <TestCategoryItem TestCategory="BookHotel" />
+      </TestCategory>
+      <Execution id="8a5aceec-8cf0-4b74-8f09-f546891a2a5a" />
+      <TestMethod codeBase="C:\Users\abdul\source\repos\WebAppAutomation\bin\Debug\WebAppAutomation.dll" adapterTypeName="executor://mstestadapter/v2" className="WEB_AUTOMATION.TestExecution" name="BookHotel_TC001" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="21af4f20-b80e-78ec-b745-77df2e73d6c6" executionId="8a5aceec-8cf0-4b74-8f09-f546891a2a5a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="1" failed="2" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
